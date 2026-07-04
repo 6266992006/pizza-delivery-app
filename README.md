@@ -86,5 +86,5 @@ Go to `http://localhost:5173/admin/login` to access the admin panel.
 - Passwords are hashed with bcrypt; nothing is ever stored in plain text.
 
 ## Feature checklist mapping
-
+live link :- https://pizza-delivery-frontend-5k81.onrender.com
 Every checkbox from the assignment brief is implemented — see the **Features implemented** section above for the direct mapping.
